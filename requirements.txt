@@ -1,2 +1,2 @@
 Adafruit_IO
-telegram.ext
+python-telegram-bot==13.0
