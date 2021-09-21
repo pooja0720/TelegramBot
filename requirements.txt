@@ -1,2 +1,2 @@
 Adafruit_IO
-telegram
+telegram.ext
